@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{276:function(t,o,s){"use strict";s.r(o);var n=s(13),e=Object(n.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("With a body too, of course 😉")])])}),[],!1,null,null,null);o.default=e.exports}}]);
