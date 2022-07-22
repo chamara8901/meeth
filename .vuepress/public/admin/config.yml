@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+  accept_roles:
+    - admin
   branch: master
 media_folder: ".vuepress/public/"
 public_folder: "../../"
