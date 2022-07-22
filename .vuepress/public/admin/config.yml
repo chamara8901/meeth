@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: main
 media_folder: ".vuepress/public/"
 public_folder: "../../"
 display_url: https://chimerical-melomakarona-d0beb4.netlify.app
