@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Teach English
+heroText: Meeth
 heroImage: example-image.jpg
 actionText: Read More →
 actionLink: /categories/
