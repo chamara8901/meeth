@@ -4,7 +4,7 @@ heroText: Meeth
 heroImage: example-image.jpg
 actionText: Read More →
 actionLink: /categories/
-footer: Developed by Atanas Yonkov || Powered by VuePress
+footer: Meeth Product Document Portal
 ---
 Latest Entries
 <LatestPosts />
